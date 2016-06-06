@@ -51,7 +51,7 @@ So far just me. I'd like to thank any of my friends who will have without a doub
 MIT.
 __Basically__ I don't care what you do with the code so long as you:
 
-- [ ]don't ~~try to pass it off as your own~~ _(lol, I know just how basic it is.)_
+- [ ] don't ~~try to pass it off as your own~~ _(lol, I know just how basic it is.)_
 - [x] give me credit
 
 ##TODO
