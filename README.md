@@ -6,12 +6,12 @@ __tl;dr__ Maths functions.
 
 ## Code Example
 
-'''Python
+```Python
 import cmath
 
 print cmath.primes(10):
 #Output [2, 3, 5, 7] 
-'''
+```
 
 Each function comes with a suffiecient docstring, including what arguments it takes and what it returns.
 
@@ -21,24 +21,26 @@ Each function here has at some point been written and used by me to solve variou
 
 ## Installation
 
-'''Bash
+```Bash
 sudo pip install cmath
-'''
-'''Python
+```
+
+```Python
 import cmath
 # as you normally would...
-'''
+```
 
 ## Tests
 
-Each one has gone through a decent amount of testing before finally being put into this proper collection. If you find any bugs contact me at the email provided and I'll look into it. 
-'''Python
+Each one has gone through a decent amount of testing before finally being put into this proper collection. If you find any bugs contact me at the email provided and I'll look into it.
+
+```Python
 def test_primes():
 	assert_equal(primes(100),[2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,97])
 	assert_equal(primes(2),[2])
 	assert_equal(primes(-10),[])
 	assert_equal(primes(1),[])
-'''
+```
 
 ## Contributors
 
@@ -48,15 +50,15 @@ So far just me. I'd like to thank any of my friends who will have without a doub
 
 MIT.
 __Basically__ I don't care what you do with the code so long as you 
-- []don't ~~try to pass it off as your own~~ _(lol, I know just how basic it is.)_
+- [ ]don't ~~try to pass it off as your own~~ _(lol, I know just how basic it is.)_
 - [x] give me credit
 
 ##TODO
-- [] Finish porting all of this from everywhere into one place
-- [] Work on more common maths functions
-- [] Speed - _not the drug or the film_
-- [] Sort out the README page
-- [] ???
+- [ ] Finish porting all of this from everywhere into one place
+- [ ] Work on more common maths functions
+- [ ] Speed - _not the drug or the film_
+- [x] Sort out the README page
+- [ ] ???
 
 Contact me if you want to add more things to that list.
 
