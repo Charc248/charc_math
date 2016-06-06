@@ -48,14 +48,20 @@ So far just me. I'd like to thank any of my friends who will have without a doub
 
 MIT.
 __Basically__ I don't care what you do with the code so long as you 
-[]don't~~ try to pass it off as your own~~ _(lol, I know just how basic it is.)_
-[x] give me credit
+- []don't ~~try to pass it off as your own~~ _(lol, I know just how basic it is.)_
+- [x] give me credit
 
 ##TODO
-[] Finish porting all of this from everywhere into one place
-[] Work on more common maths functions
-[] Speed - _not the drug or the film_
-[] Sort out the README page
-[] ???
+- [] Finish porting all of this from everywhere into one place
+- [] Work on more common maths functions
+- [] Speed - _not the drug or the film_
+- [] Sort out the README page
+- [] ???
 
 Contact me if you want to add more things to that list.
+
+#### Known Bugs
+Each bug I find is with the function, but still a general list for those unwilling to read (including me)
+- isAP is not very numerically accurate
+- isGP is not at all numerically accurate, this needs lots of work and fixing
+
