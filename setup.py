@@ -8,8 +8,8 @@ def readme():
 		return f.read()
 
 config = {
-	'name': 'cmath',
-	'version': '0.1',
+	'name': 'charc_math',
+	'version': '1.0',
 	'description': 'Private collection of math functions',
 	'long_description': readme(),
 	'classifiers': [

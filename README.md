@@ -1,4 +1,4 @@
-# cmath
+# charc_math
 
 This started out as a private collection of maths functions, many will be quite simple. Over time I've got quite a few, and I thought it should be shared. Nothing is too complicated - I hope.
 
@@ -7,9 +7,9 @@ __tl;dr__ Maths functions.
 ## Code Example
 
 ```Python
-import cmath
+import charc_math as c
 
-print cmath.primes(10):
+print c.primes(10):
 #Output [2, 3, 5, 7] 
 ```
 
@@ -22,11 +22,11 @@ Each function here has at some point been written and used by me to solve variou
 ## Installation
 
 ```Bash
-sudo pip install cmath
+sudo pip install charc_math
 ```
 
 ```Python
-import cmath
+import charc_math
 # as you normally would...
 ```
 
@@ -66,5 +66,5 @@ Contact me if you want to add more things to that list.
 
 #### Known Bugs
 Each bug I find is with the function, but still a general list for those unwilling to read (including me)
-- isAP is not very numerically accurate
+- isAP is ~~not very numerically accurate~~ better now.
 - isGP is not at all numerically accurate, this needs lots of work and fixing
