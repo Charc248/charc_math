@@ -1,3 +1,9 @@
+"""
+Recursive finding of the gcd or hcf of a list of numbers
+@arg *n Any amount of integers
+@ret    The greatest common divisor
+"""
+
 # Code:
 def gcd(*n):
     """
