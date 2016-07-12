@@ -9,7 +9,7 @@ def readme():
 
 config = {
 	'name': 'charc_math',
-	'version': '1.0',
+	'version': '1.1',
 	'description': 'Private collection of math functions',
 	'long_description': readme(),
 	'classifiers': [
@@ -18,12 +18,12 @@ config = {
 		'Programming Language :: Python :: 2.7',
 		'Intended Audience :: Education'
 	],
-	'keywords': 'math elementary number theory simple',
-	'url': 'https://github.com/Charc248/cmath',
+	'keywords': ['math', 'charc', 'simple'],
+	'url': 'https://github.com/Charc248/charc_math',
 	'author': 'Mayur Dave',
-	'author_email': 'm.dave@warwick.ac.uk',
+	'author_email': 'mdave3927@gmail.com',
 	'license': 'MIT',
-	'packages': ['cmath'],
+	'packages': ['charc_math'],
 	'install_requires': [
 		'markdown',
 		'nose'
