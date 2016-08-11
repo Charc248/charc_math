@@ -14,3 +14,4 @@ def start():
 
 
 # Bugs:
+# OPENING A FILE AND NOT CLOSING IT.
