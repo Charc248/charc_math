@@ -1,6 +1,6 @@
 # charc_math
 
-This started out as a private collection of maths functions, many will be quite simple. Over time I've got quite a few, and I thought it should be shared. Nothing is too complicated - I hope.
+This started out as a private collection of maths functions, many quite simple. Over time I've accumulated quite a few, and I thought it should be shared. Nothing is too complicated - I hope.
 
 __tl;dr__ Maths functions.
 
@@ -12,8 +12,6 @@ import charc_math as c
 print c.primes(10):
 #Output [2, 3, 5, 7] 
 ```
-
-Each function comes with a suffiecient docstring, including what arguments it takes and what it returns.
 
 ## Motivation
 
@@ -32,7 +30,7 @@ import charc_math
 
 ## Tests
 
-Each one has gone through a decent amount of testing before finally being put into this proper collection. If you find any bugs contact me at the email provided and I'll look into it.
+Each one has gone through testing before finally being put into this proper collection. If you find any bugs contact me at the email provided and I'll look into it.
 
 ```Python
 def test_primes():
